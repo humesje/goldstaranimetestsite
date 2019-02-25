@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome
+title: Welcome To Gold Star Anime
 permalink: /
 section: home
 intro_paragraph: >
